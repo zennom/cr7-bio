@@ -5,14 +5,13 @@ body{
     justify-content: center;
     font-family: 'Poppins', sans-serif;
     margin: 20px;
-   
 }
 
 .container{
     display: flex;
     background-color: white;
     border-radius: 10px;
-    width: 800px;
+    width: 810px;
 }
 
 .img-player img{
@@ -47,10 +46,14 @@ body{
 #awards{
     display: flex;
     flex-direction: column;
-   
 }
 
 #awards img{
-    width: 50px;
+    width: 40px;
+    margin: 10px;
+    
+}
+
+#awards strong {
     margin: 10px;
 }
