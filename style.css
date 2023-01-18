@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;400&display=swap');
+body{
+    background-color: #0f0c29;
+    display: flex;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+   
+}
+
+.container{
+    display: flex;
+    background-color: white;
+    border-radius: 10px;
+    width: 800px;
+}
+
+.img-player img{
+    width: 350px;
+    margin: 20px;
+}
+
+
+.info-player .header{
+    display: flex;
+    align-items: center;
+}
+
+.header img{
+    width: 20px;
+    margin: 10px;
+}
+
+#bio{
+    letter-spacing:1.5px;
+}
+
+#clubs{
+    display: flex;
+    align-items: center;
+}
+
+#clubs img{
+    width: 70px;
+}
+
+#awards{
+    display: flex;
+    flex-direction: column;
+   
+}
+
+#awards img{
+    width: 50px;
+    margin: 10px;
+}
