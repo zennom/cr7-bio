@@ -11,12 +11,12 @@ body{
     display: flex;
     background-color: white;
     border-radius: 10px;
-    width: 810px;
+    width: 750px;
 }
 
 .img-player img{
-    width: 350px;
-    margin: 20px;
+    width: 300px;
+    margin: 15px;
 }
 
 
@@ -32,6 +32,7 @@ body{
 
 #bio{
     letter-spacing:1.5px;
+    font-size: 15px;
 }
 
 #clubs{
@@ -41,7 +42,8 @@ body{
 }
 
 #clubs img{
-    width: 70px;
+    width: 50px;
+    margin: 10px;
 }
 
 #awards{
